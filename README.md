@@ -4,7 +4,7 @@
 </div>
 
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yihimin&theme=dracula)
+![trophy](https://github-profile-trophy.vercel.app/?username=jungyoonho128&theme=dracula)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
