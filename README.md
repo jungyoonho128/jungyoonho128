@@ -3,6 +3,8 @@
   <img src="https://github.com/eric5025/eric5025/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
 
+
+![trophy](https://github-profile-trophy.vercel.app/?username=yihimin&theme=dracula)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
